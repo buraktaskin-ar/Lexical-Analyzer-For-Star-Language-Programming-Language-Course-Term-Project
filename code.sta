@@ -1,0 +1,8 @@
+int a b c.
+read "First:" a.
+newLine.
+read "Second:" b.
+newLine.
+c is a+b.
+c is c/2.
+write "Result:" c.
